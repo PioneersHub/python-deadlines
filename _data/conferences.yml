@@ -743,19 +743,20 @@
     latitude: -5.0874608
     longitude: -42.8049571
 
-- conference: PyCon Germany & PyData Conference
-  alt_name: PyCon DE & PyData Conference
+- conference: PyCon DE & PyData Conference
+  alt_name: PyCon Germany
   year: 2025
   link: https://2025.pycon.de/
-  cfp: TBA
+  cfp: 2024-12-22 23:59:59
   timezone: Europe/Berlin
   place: Darmstadt, Germany
   start: 2025-04-23
   end: 2025-04-25
   twitter: PyConDE
-  sub: PY,DATA
+  sponsor: https://2025.pycon.de/sponsoring/
+  sub: PY,DATA,WEB
   location:
-  - title: PyCon Germany & PyData Conference 2025
+  - title: PyCon DE & PyData Conference 2025
     latitude: 49.872775
     longitude: 8.651177
 
